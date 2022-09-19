@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85708230-d09f-4a00-817b-5d576e7cb105": {
+      "ProjectGuid": "85708230-d09f-4a00-817b-5d576e7cb105",
+      "DisplayName": "QLDV.Web",
+      "ColorIndex": 0
+    },
+    "8a43495a-f695-41f9-b507-1756b4bd53f1": {
+      "ProjectGuid": "8a43495a-f695-41f9-b507-1756b4bd53f1",
+      "DisplayName": "QLDV.DAL",
+      "ColorIndex": 1
+    },
+    "52bd1278-f93b-4659-8145-5d988db6f860": {
+      "ProjectGuid": "52bd1278-f93b-4659-8145-5d988db6f860",
+      "DisplayName": "QLDV.BLL",
+      "ColorIndex": 2
+    },
+    "d0a50928-1753-4b13-b39f-0e3c78a3962e": {
+      "ProjectGuid": "d0a50928-1753-4b13-b39f-0e3c78a3962e",
+      "DisplayName": "QLDV.Common",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

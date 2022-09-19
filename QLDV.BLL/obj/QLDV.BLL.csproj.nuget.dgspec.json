@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.BLL\\QLDV.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.BLL\\QLDV.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.BLL\\QLDV.BLL.csproj",
+        "projectName": "QLDV.BLL",
+        "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.BLL\\QLDV.BLL.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP MSI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj"
+              },
+              "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\QLDV.DAL.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\QLDV.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj",
+        "projectName": "QLDV.Common",
+        "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP MSI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\QLDV.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\QLDV.DAL.csproj",
+        "projectName": "QLDV.DAL",
+        "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\QLDV.DAL.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP MSI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP MSI\\Desktop\\QLDVXK\\QLDV.Common\\QLDV.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

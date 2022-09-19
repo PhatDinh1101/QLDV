@@ -1,0 +1,51 @@
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.deps.json
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.runtimeconfig.json
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfoInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfo.cs
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\refint\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.genruntimeconfig.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.DAL\obj\Debug\net6.0\ref\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.deps.json
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.runtimeconfig.json
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfoInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfo.cs
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\refint\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.genruntimeconfig.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.DAL\obj\Debug\net6.0\ref\QLDV.DAL.dll
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.deps.json
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.runtimeconfig.json
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\trant\QLDVXK\QLDV.DAL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.AssemblyReference.cache
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfoInputs.cache
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.AssemblyInfo.cs
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CoreCompileInputs.cache
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.csproj.CopyComplete
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.dll
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\refint\QLDV.DAL.dll
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\QLDV.DAL.genruntimeconfig.cache
+C:\Users\trant\QLDVXK\QLDV.DAL\obj\Debug\net6.0\ref\QLDV.DAL.dll

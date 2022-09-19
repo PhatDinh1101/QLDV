@@ -1,0 +1,57 @@
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.deps.json
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfoInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfo.cs
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\refint\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\ref\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.runtimeconfig.json
+C:\Users\LAPTOP MSI\Desktop\QLDV\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.genruntimeconfig.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.deps.json
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.runtimeconfig.json
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfoInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfo.cs
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\refint\QLDV.BLL.dll
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.genruntimeconfig.cache
+C:\Users\LAPTOP MSI\Desktop\QLDVXK\QLDV.BLL\obj\Debug\net6.0\ref\QLDV.BLL.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.deps.json
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.runtimeconfig.json
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.Common.pdb
+C:\Users\trant\QLDVXK\QLDV.BLL\bin\Debug\net6.0\QLDV.DAL.pdb
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.AssemblyReference.cache
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfoInputs.cache
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.AssemblyInfo.cs
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CoreCompileInputs.cache
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.csproj.CopyComplete
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\refint\QLDV.BLL.dll
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.pdb
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\QLDV.BLL.genruntimeconfig.cache
+C:\Users\trant\QLDVXK\QLDV.BLL\obj\Debug\net6.0\ref\QLDV.BLL.dll
